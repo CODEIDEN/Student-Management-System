@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#sample file
+students.txt
+
+Add students.txt to gitignore
